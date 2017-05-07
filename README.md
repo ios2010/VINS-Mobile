@@ -28,6 +28,12 @@ The code has been tested on macOS Sierra with Xcode 8.3.1 and compatible with iO
 
 1.4 Build and Run
 
+1.5 Compatible devices
+
+	iPhone7 Plus, iPhone7, iPhone6s Plus, iPhone6s
+	
+if you use it with non-plus devices, you may need modify the UI size at Main.storyboard for adapatering with your screen.
+
 ## 2. Citing
 
 If you use VINS-Mobile for academic work, please cite the following publication:
