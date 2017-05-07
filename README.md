@@ -27,26 +27,26 @@ The code has been tested on macOS Sierra with Xcode 8.3.1 and compatible with iO
 
 1.4 Build and Run
 
-1.5 Compatible devices
+## 2. Compatible Devices
 
 	iPhone7 Plus, iPhone7, iPhone6s Plus, iPhone6s
 	
-if you use it with non-plus devices, you may need to modify the UI size at Main.storyboard for adapatering with your screen.
+If you use it with non-plus devices, you may need to modify the UI size at Main.storyboard for adapting with your screen.
 
-## 2. Citing
+## 3. Citing
 
-If you use VINS-Mobile for academic work, please cite the following publication:
+If you use VINS-Mobile for academic work, please cite at least one of our related papers mentioned above.
 
-## 3. Acknowledgements
+## 4. Acknowledgements
 
 We use [ceres solver](http://ceres-solver.org/) for non-linear optimization and [DBow](https://github.com/dorian3d/DBoW2) for loop detection.
 
 Thanks [Yang Liu](https://github.com/wandermyz) to contribute to this code.
 
-## 4. Licence
+## 5. Licence
 
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) licence.
 
-Welcome to contribute to VINS-Mobile or ask any issues via Github or contacting Peiliang LI <pliap@connect.ust.hk> and Tong QIN <tong.qin@connect.ust.hk>.
+Welcome to contribute to VINS-Mobile or ask any issues via Github or contacting Peiliang LI <pliap@connect.ust.hk> or Tong QIN <tong.qin@connect.ust.hk>.
 
-For commercial purposes, please contact Shaojie SHEN <eeshaojie@ust.hk>
+For commercial inqueries, please contact Shaojie SHEN <eeshaojie@ust.hk>
