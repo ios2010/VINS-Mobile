@@ -23,13 +23,15 @@ The code has been compiled on macOS Sierra with Xcode 8.3.1 and tested with iOS 
 	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 	$ brew install boost
 ```
-1.2 Download specific opencv2.framework from [here](https://www.dropbox.com/sh/r28gjnue98ro1fa/AACiEH-HUdZxU4852_AytAPPa?dl=0)
+1.2 Download specific **opencv2.framework** from [here](https://www.dropbox.com/sh/r28gjnue98ro1fa/AACiEH-HUdZxU4852_AytAPPa?dl=0)
 
-1.3 Copy the opencv2.framework to VINS_ThirdPartyLib/opencv2.framework
+1.3 Copy the **opencv2.framework** to **VINS_ThirdPartyLib/opencv2.framework**
 
-1.4 Build and Run
+1.4 In your Xcode, select **Product**-> **Scheme**-> **Edit Scheme**-> **Run**-> **Info**, set **Build Configuration** to **Release**
 
-1.5 Compatible Devices
+1.5 Build and Run
+
+1.6 Compatible Devices
 
 	iPhone7 Plus, iPhone7, iPhone6s Plus, iPhone6s
 	
@@ -45,6 +47,6 @@ Thanks [Yang Liu](https://github.com/wandermyz) to contribute to this code.
 
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) licence.
 
-Welcome to contribute to VINS-Mobile or ask any issues via Github or contacting Peiliang LI <pliap@connect.ust.hk> or Tong QIN <tong.qin@connect.ust.hk>.
+We are still working for improving the code readability. Welcome to contribute to VINS-Mobile or ask any issues via Github or contacting Peiliang LI <pliap@connect.ust.hk> or Tong QIN <tong.qin@connect.ust.hk>.
 
 For commercial inqueries, please contact Shaojie SHEN <eeshaojie@ust.hk>
