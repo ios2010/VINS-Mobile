@@ -45,6 +45,6 @@ Thanks [Yang Liu](https://github.com/wandermyz) to contribute to this code.
 
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) licence.
 
-Welcome to contribute to VINS-Mobile or ask any issues via Github or contacting Peiliang LI <pliap@connect.ust.hk> or Tong QIN <tong.qin@connect.ust.hk>.
+We are still working for improving the code readability. Welcome to contribute to VINS-Mobile or ask any issues via Github or contacting Peiliang LI <pliap@connect.ust.hk> or Tong QIN <tong.qin@connect.ust.hk>.
 
 For commercial inqueries, please contact Shaojie SHEN <eeshaojie@ust.hk>
