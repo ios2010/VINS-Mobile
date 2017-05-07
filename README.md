@@ -8,10 +8,10 @@ VINS-Mobile is a real-time visual-inertial-based augmentged reality system. This
 **Videos:**
 
 **Related Papers:**
-* **Monocular Visual-Inertial State Estimation for Mobile Augmented Reality**
-* [**Robust Initialization of Monocular Visual-Inertial Estimation on Aerial Robots**](http://www.ece.ust.hk/~eeshaojie/iros2017tong.pdf)
-* **Monocular Visual-Inertial State Estimation With Online Initialization and Camera-IMU Extrinsic Calibration**
-* **Tightly-coupled monocular visual-inertial fusion for autonomous flight of rotorcraft MAVs**
+* **Monocular Visual-Inertial State Estimation for Mobile Augmented Reality**, *P.Li et al*
+* [**Robust Initialization of Monocular Visual-Inertial Estimation on Aerial Robots**](http://www.ece.ust.hk/~eeshaojie/iros2017tong.pdf), *T.Qin et al*
+* **Monocular Visual-Inertial State Estimation With Online Initialization and Camera-IMU Extrinsic Calibration**, *Z.Yang et al T-ASE 2017*
+* **Tightly-coupled monocular visual-inertial fusion for autonomous flight of rotorcraft MAVs**, *S.Shen et al ICRA 2015*
 
 ## 1. Build
 
