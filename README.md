@@ -27,7 +27,7 @@ The code has been compiled on macOS Sierra with Xcode 8.3.1 and tested with iOS 
 
 1.3 Copy the opencv2.framework to VINS_ThirdPartyLib/opencv2.framework
 
-1.4 In your Xcode, select Product-> Scheme-> Edit Scheme-> Run-> Info, set Build Configuration to Release
+1.4 In your Xcode, select **Product**-> **Scheme**-> **Edit Scheme**-> **Run**-> **Info**, set **Build Configuration** to **Release**
 
 1.5 Build and Run
 
