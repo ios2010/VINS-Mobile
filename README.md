@@ -23,9 +23,9 @@ The code has been compiled on macOS Sierra with Xcode 8.3.1 and tested with iOS 
 	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 	$ brew install boost
 ```
-1.2 Download specific opencv2.framework from [here](https://www.dropbox.com/sh/r28gjnue98ro1fa/AACiEH-HUdZxU4852_AytAPPa?dl=0)
+1.2 Download specific **opencv2.framework** from [here](https://www.dropbox.com/sh/r28gjnue98ro1fa/AACiEH-HUdZxU4852_AytAPPa?dl=0)
 
-1.3 Copy the opencv2.framework to VINS_ThirdPartyLib/opencv2.framework
+1.3 Copy the **opencv2.framework** to **VINS_ThirdPartyLib/opencv2.framework**
 
 1.4 In your Xcode, select **Product**-> **Scheme**-> **Edit Scheme**-> **Run**-> **Info**, set **Build Configuration** to **Release**
 
