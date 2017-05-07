@@ -12,6 +12,8 @@ VINS-Mobile is a real-time monocular visual-inertial state estimator developed b
 * [**Robust Initialization of Monocular Visual-Inertial Estimation on Aerial Robots**](http://www.ece.ust.hk/~eeshaojie/iros2017tong.pdf), *T.Qin et al (submitted to IROS 2017)*
 * [**Monocular Visual-Inertial State Estimation With Online Initialization and Camera-IMU Extrinsic Calibration**](http://ieeexplore.ieee.org/document/7463059/), *Z.Yang et al (T-ASE 2017)*
 
+If you use VINS-Mobile for your academic research, please cite at least one of our related papers mentioned above.
+
 ## 1. Build
 
 The code has been tested on macOS Sierra with Xcode 8.3.1 and compatible with iOS 10.2.1 on iPhone7 Plus.
@@ -27,23 +29,19 @@ The code has been tested on macOS Sierra with Xcode 8.3.1 and compatible with iO
 
 1.4 Build and Run
 
-## 2. Compatible Devices
+1.5 Compatible Devices
 
 	iPhone7 Plus, iPhone7, iPhone6s Plus, iPhone6s
 	
 If you use it with non-plus devices, you may need to modify the UI size at Main.storyboard for adapting with your screen.
 
-## 3. Citing
-
-If you use VINS-Mobile for academic work, please cite at least one of our related papers mentioned above.
-
-## 4. Acknowledgements
+## 2. Acknowledgements
 
 We use [ceres solver](http://ceres-solver.org/) for non-linear optimization and [DBow](https://github.com/dorian3d/DBoW2) for loop detection.
 
 Thanks [Yang Liu](https://github.com/wandermyz) to contribute to this code.
 
-## 5. Licence
+## 3. Licence
 
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) licence.
 
