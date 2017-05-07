@@ -15,7 +15,7 @@ VINS-Mobile is a real-time visual-inertial-based augmentged reality system. This
 
 ## 1. Build
 
-The code has been tested on macOS Sierra with Xcode 8.3.1 and iOS 10.2.1.
+The code has been tested on macOS Sierra with Xcode 8.3.1 and compatible with iOS 10.2.1 on iPhone7 Plus.
 
 1.1 Install boost for macOS
 ```
