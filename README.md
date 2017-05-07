@@ -1,7 +1,7 @@
 # VINS-Mobile
 ## Monocular Visual-Inertial State Estimator on Mobile Phones
 
-VINS-Mobile is a real-time monocular visual-inertial state estimator developed by members of the HKUST Aerial Robotics Group. It runs on compatible iOS devices, and provides localization services for augmented reality (AR) applications. It is also tested for state estimation and feedback control for autonomous drones. VINS-Mobile uses sliding window optimization-based formulation for providing high-accuracy visual-inertial odometry with automatic initialization and failure recovery. The accumulated odometry errors are corrected in real-time using global pose graph SLAM. An AR demonstration is provided to showcase its capability.
+VINS-Mobile is a real-time monocular visual-inertial state estimator developed by members of the [HKUST Aerial Robotics Group](http://uav.ust.hk/). It runs on compatible iOS devices, and provides localization services for augmented reality (AR) applications. It is also tested for state estimation and feedback control for autonomous drones. VINS-Mobile uses sliding window optimization-based formulation for providing high-accuracy visual-inertial odometry with automatic initialization and failure recovery. The accumulated odometry errors are corrected in real-time using global pose graph SLAM. An AR demonstration is provided to showcase its capability.
 
 **Authors:** Peiliang LI, Tong QIN, Zhenfei YANG, Kejie QIU, and [Shaojie SHEN](http://www.ece.ust.hk/ece.php/profile/facultydetail/eeshaojie) from the [HKUST Aerial Robotics Group](http://uav.ust.hk/)
 
@@ -12,11 +12,11 @@ VINS-Mobile is a real-time monocular visual-inertial state estimator developed b
 * [**Robust Initialization of Monocular Visual-Inertial Estimation on Aerial Robots**](http://www.ece.ust.hk/~eeshaojie/iros2017tong.pdf), *T.Qin et al (submitted to IROS 2017)*
 * [**Monocular Visual-Inertial State Estimation With Online Initialization and Camera-IMU Extrinsic Calibration**](http://ieeexplore.ieee.org/document/7463059/), *Z.Yang et al (T-ASE 2017)*
 
-If you use VINS-Mobile for your academic research, please cite at least one of our related papers mentioned above.
+*If you use VINS-Mobile for your academic research, please cite at least one of our related papers.*
 
 ## 1. Build
 
-The code has been tested on macOS Sierra with Xcode 8.3.1 and compatible with iOS 10.2.1 on iPhone7 Plus.
+The code has been compiled on macOS Sierra with Xcode 8.3.1 and tested with iOS 10.2.1 on iPhone7 Plus.
 
 1.1 Install boost for macOS
 ```
