@@ -3,7 +3,7 @@
 
 VINS-Mobile is a real-time visual-inertial-based augmentged reality system. This code implements an **initilization-free** **monocular** sliding window based **visual-inertial-loop** odometry, which is running on IOS devices in real time.
 
-**Authors:** Peiliang LI, Tong QIN, Zhenfei YANG, Kejie QIU, and [Shaojie SHEN](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=en) from [HUKST UAV GROUP](http://uav.ust.hk/)
+**Authors:** Peiliang LI, Tong QIN, Zhenfei YANG, Kejie QIU, and [Shaojie SHEN](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=en) from [HKUST Aerial Robotics](http://uav.ust.hk/)
 
 **Videos:**
 
@@ -32,7 +32,7 @@ The code has been tested on macOS Sierra with Xcode 8.3.1 and compatible with iO
 
 	iPhone7 Plus, iPhone7, iPhone6s Plus, iPhone6s
 	
-if you use it with non-plus devices, you may need modify the UI size at Main.storyboard for adapatering with your screen.
+if you use it with non-plus devices, you may need to modify the UI size at Main.storyboard for adapatering with your screen.
 
 ## 2. Citing
 
